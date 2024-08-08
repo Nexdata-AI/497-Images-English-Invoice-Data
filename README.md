@@ -3,7 +3,7 @@
 ## Description
 497 Images – English Invoice Data，the collection background is a solid color background, and personal information is desensitized, including various types of invoices, which can be used for tasks such as bill recognition and text recognition.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/1392?source=Github
+For more details, please refer to the link:https://www.nexdata.ai/datasets/ocr/1392?source=Github
 
 
 ## Date size
